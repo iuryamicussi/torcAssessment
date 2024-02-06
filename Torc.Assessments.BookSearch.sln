@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torc.Assessments.BookSearch.Server", "Torc.Assessments.BookSearch.Server\Torc.Assessments.BookSearch.Server.csproj", "{0546FD2E-73EF-465A-BC62-55DFE6BD6B09}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "torc.assessments.booksearch.client", "torc.assessments.booksearch.client\torc.assessments.booksearch.client.esproj", "{204ECC2E-2519-4E26-A6DC-AD3D289C8F35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0546FD2E-73EF-465A-BC62-55DFE6BD6B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0546FD2E-73EF-465A-BC62-55DFE6BD6B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0546FD2E-73EF-465A-BC62-55DFE6BD6B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0546FD2E-73EF-465A-BC62-55DFE6BD6B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204ECC2E-2519-4E26-A6DC-AD3D289C8F35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204ECC2E-2519-4E26-A6DC-AD3D289C8F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204ECC2E-2519-4E26-A6DC-AD3D289C8F35}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{204ECC2E-2519-4E26-A6DC-AD3D289C8F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204ECC2E-2519-4E26-A6DC-AD3D289C8F35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204ECC2E-2519-4E26-A6DC-AD3D289C8F35}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C1B59AD-D442-4953-83B2-05F38F1349F7}
+	EndGlobalSection
+EndGlobal

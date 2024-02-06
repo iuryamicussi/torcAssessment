@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\vapo_\\source\\repos\\Torc.Assessments.BookSearch\\Torc.Assessments.BookSearch.Server\\..\\torc.assessments.booksearch.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
